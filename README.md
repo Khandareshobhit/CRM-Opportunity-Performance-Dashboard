@@ -41,3 +41,9 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 * Opportunity volume peaks in June with 671 opportunities.
 * Closed Lost contributes the highest revenue among opportunity stages.
 
+## Tableau - CRM Opportunity Performance Dashboard
+
+<img width="1602" height="906" alt="Screenshot 2026-09-08 163504" src="https://github.com/user-attachments/assets/6f014d71-7951-4aaa-9de5-78a62810bf54" />
+
+
+
