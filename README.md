@@ -1,6 +1,6 @@
 # CRM Analytics – Opportunity Performance Dashboard
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Analyze **CRM opportunity performance** and monitor the overall sales opportunity pipeline.
 * Track key KPIs such as **Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate**.
