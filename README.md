@@ -19,3 +19,13 @@ The CRM Analytics project follows a Galaxy Schema (Fact Constellation Schema) wi
 * Dimension Tables: dim_account, dim_user
 
 This schema supports scalable CRM analysis, KPI calculation, and reporting.
+
+## 💼 Business Requirements
+
+* Monitor overall **opportunity performance** and pipeline activity.
+* Track key KPIs such as **Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate**.
+* Analyze **expected vs. forecast revenue trends** over time.
+* Evaluate opportunity performance by **Opportunity Type and Industry**.
+* Compare **Won, Lost, Active, and Total Opportunities**.
+* Provide interactive dashboards to support **data-driven sales decisions**.
+
