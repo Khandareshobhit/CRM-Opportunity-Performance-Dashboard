@@ -31,8 +31,6 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 
 ## Process
 
-## ⚙️ Process
-
 * **Data Preparation & Modeling:** Cleaned, organized, and structured the opportunity data for analysis.
 * **Data Analysis:** Calculate KPI's and Analyzed opportunities by stage, industry, lead source, and time.
 * **KPI & Visualization:** Created KPIs and visualizations to identify trends and performance.
