@@ -11,7 +11,7 @@
 * Analyze opportunities across different **Industries** to identify business trends and patterns.
 * Provide interactive and meaningful visualizations to support **data-driven business decisions**.
 
-## 🗂️ Data Model / Schema
+##  Data Model / Schema
 
 The CRM Analytics project follows a Galaxy Schema (Fact Constellation Schema) with multiple fact tables sharing common dimension tables.
 
@@ -20,7 +20,7 @@ The CRM Analytics project follows a Galaxy Schema (Fact Constellation Schema) wi
 
 This schema supports scalable CRM analysis, KPI calculation, and reporting.
 
-## 💼 Business Requirements
+##  Business Requirements
 
 * Monitor overall **opportunity performance** and pipeline activity.
 * Track key KPIs such as **Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate**.
@@ -33,7 +33,7 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 
 <img width="731" height="432" alt="Screenshot 2026-09-08 151456" src="https://github.com/user-attachments/assets/b1a64391-8b0f-4a88-88a0-d2998249563b" />
 
-## 🔎 Observations
+##  Observations
 
 * 4,646 total opportunities, with 1,272 active opportunities generating $184.14M expected revenue.
 * Conversion rate stands at 31.06%, with 57.23% opportunities lost.
@@ -45,5 +45,7 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 
 <img width="1602" height="906" alt="Screenshot 2026-09-08 163504" src="https://github.com/user-attachments/assets/6f014d71-7951-4aaa-9de5-78a62810bf54" />
 
+## Conclusion
 
+The dashboard provides a clear view of the opportunity pipeline, highlighting expected revenue, conversion performance, industry contribution, lead sources, and win/loss trends. It helps identify key revenue opportunities and areas of opportunity loss, supporting data-driven sales and business decisions.
 
