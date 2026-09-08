@@ -15,7 +15,7 @@
 
 The CRM Analytics project follows a Galaxy Schema (Fact Constellation Schema) with multiple fact tables sharing common dimension tables.
 
-Fact Tables: fact_opportunity, fact_lead, fact_opp_product
-Dimension Tables: dim_account, dim_user
+* Fact Tables: fact_opportunity, fact_lead, fact_opp_product
+* Dimension Tables: dim_account, dim_user
 
 This schema supports scalable CRM analysis, KPI calculation, and reporting.
