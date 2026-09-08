@@ -32,3 +32,13 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 ## Data Modelling
 
 <img width="731" height="432" alt="Screenshot 2026-09-08 151456" src="https://github.com/user-attachments/assets/b1a64391-8b0f-4a88-88a0-d2998249563b" />
+
+## 🔎 Observations
+
+* The dashboard provides an overview of **opportunity performance** through key KPIs such as Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate.
+* **Opportunity Distribution by Lead Source** highlights the sources contributing to the opportunity pipeline.
+* **Opportunity Trend Over Time** shows how opportunity volume changes over different periods.
+* **Revenue by Stage** helps identify the stages contributing the most revenue.
+* **Top 5 Industries by Expected Revenue** highlights the industries with the highest revenue potential.
+* **Won vs. Lost Opportunities** provides a clear comparison of successful and unsuccessful opportunities.
+
