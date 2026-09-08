@@ -29,6 +29,16 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 * Compare **Won, Lost, Active, and Total Opportunities**.
 * Provide interactive dashboards to support **data-driven sales decisions**.
 
+## Process
+
+## ⚙️ Process
+
+* **Data Preparation & Modeling:** Cleaned, organized, and structured the opportunity data for analysis.
+* **Data Analysis:** Calculate KPI's and Analyzed opportunities by stage, industry, lead source, and time.
+* **KPI & Visualization:** Created KPIs and visualizations to identify trends and performance.
+* **Dashboard Development:** Built an interactive Tableau dashboard with filters.
+* **Insights:** Identified key revenue opportunities and areas of opportunity loss.
+
 ## Data Modelling
 
 <img width="731" height="432" alt="Screenshot 2026-09-08 151456" src="https://github.com/user-attachments/assets/b1a64391-8b0f-4a88-88a0-d2998249563b" />
