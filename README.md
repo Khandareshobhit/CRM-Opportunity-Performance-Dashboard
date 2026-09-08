@@ -29,4 +29,6 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 * Compare **Won, Lost, Active, and Total Opportunities**.
 * Provide interactive dashboards to support **data-driven sales decisions**.
 
+## Data Modelling
+
 <img width="731" height="432" alt="Screenshot 2026-09-08 151456" src="https://github.com/user-attachments/assets/b1a64391-8b0f-4a88-88a0-d2998249563b" />
