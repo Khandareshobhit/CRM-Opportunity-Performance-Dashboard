@@ -1,6 +1,6 @@
 # CRM Analytics – Opportunity Performance Dashboard
 
-##  Problem Statement
+##  Project Problem Statement
 
 Axon is a growing retail and consumer products company that uses CRM data for **marketing, customer loyalty, and post-sale services**. However, the company faces difficulties because its CRM data and reporting are not well organized.
 
@@ -10,6 +10,15 @@ Axon is a growing retail and consumer products company that uses CRM data for **
 * Lack of Real-Time Insights  – The company cannot easily get up-to-date information.
 * No KPI-Driven Dashboards    – Important performance metrics are not clearly displayed in dashboards.
 * Poor CRM Reporting    – Existing reports are difficult to use and provide limited insights into customer behavior and sales performance.
+
+##  Business Requirements
+
+* Monitor overall **opportunity performance** and pipeline activity.
+* Track key KPIs such as **Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate**.
+* Analyze Opportunity trend over time.
+* Evaluate opportunity performance by **Opportunity Type and Industry**.
+* Compare **Won, Lost, Active, and Total Opportunities**.
+* Provide interactive dashboards to support **data-driven sales decisions**.
  
 ##  Project Objectives
 
@@ -29,15 +38,6 @@ The CRM Analytics project follows a Galaxy Schema (Fact Constellation Schema) wi
 * Dimension Tables: dim_account, dim_user
 
 This schema supports scalable CRM analysis, KPI calculation, and reporting.
-
-##  Business Requirements
-
-* Monitor overall **opportunity performance** and pipeline activity.
-* Track key KPIs such as **Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate**.
-* Analyze Opportunity trend over time.
-* Evaluate opportunity performance by **Opportunity Type and Industry**.
-* Compare **Won, Lost, Active, and Total Opportunities**.
-* Provide interactive dashboards to support **data-driven sales decisions**.
 
 ## Process
 
