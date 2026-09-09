@@ -1,10 +1,20 @@
 # CRM Analytics – Opportunity Performance Dashboard
 
+## 🎯 Problem Statement
+
+Axon is a growing retail and consumer products company that uses CRM data for **marketing, customer loyalty, and post-sale services**. However, the company faces difficulties because its CRM data and reporting are not well organized.
+
+#Main Challenges
+
+ **Siloed Customer Data** – Customer data is stored in different places, making it difficult to analyze.
+ **Lack of Real-Time Insights** – The company cannot easily get up-to-date information.
+ **No KPI-Driven Dashboards** – Important performance metrics are not clearly displayed in dashboards.
+ **Poor CRM Reporting** – Existing reports are difficult to use and provide limited insights into customer behavior and sales performance.
+ 
 ##  Project Objectives
 
 * Analyze **CRM opportunity performance** and monitor the overall sales opportunity pipeline.
 * Track key KPIs such as **Expected Amount, Active Opportunities, Conversion Rate, Win Rate, and Loss Rate**.
-* Analyze **Expected vs. Forecast revenue trends** over time.
 * Compare **Active Opportunities with Total Opportunities** to understand opportunity trends.
 * Analyze **Closed Won Opportunities** against total and closed opportunities.
 * Evaluate **Expected Amount by Opportunity Type**.
@@ -48,6 +58,13 @@ This schema supports scalable CRM analysis, KPI calculation, and reporting.
 * Military industry leads expected revenue at $47.05M.
 * Opportunity volume peaks in June with 671 opportunities.
 * Closed Lost contributes the highest revenue among opportunity stages.
+
+##  Suggestions
+* Focus on reducing the 57.23% loss rate and improving the 42.77% win rate.
+* Prioritize high-potential industries such as Military, which has $47.05M expected revenue.
+* Improve conversion of the 1,272 active opportunities to increase realized revenue.
+* Investigate the sharp drop in opportunities from 671 in June to 282 in July.
+* Focus on opportunities in Closed Lost stage, which represents the highest stage revenue at $638.77M.
 
 ## Tableau - CRM Opportunity Performance Dashboard
 
