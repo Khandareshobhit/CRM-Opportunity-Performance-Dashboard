@@ -1,10 +1,10 @@
 # CRM Analytics – Opportunity Performance Dashboard
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Axon is a growing retail and consumer products company that uses CRM data for **marketing, customer loyalty, and post-sale services**. However, the company faces difficulties because its CRM data and reporting are not well organized.
 
-### Main Challenges
+#### Main Challenges
 
 * Siloed Customer Data        – Customer data is stored in different places, making it difficult to analyze.
 * Lack of Real-Time Insights  – The company cannot easily get up-to-date information.
