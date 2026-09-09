@@ -6,10 +6,10 @@ Axon is a growing retail and consumer products company that uses CRM data for **
 
 #Main Challenges
 
- **Siloed Customer Data** – Customer data is stored in different places, making it difficult to analyze.
- **Lack of Real-Time Insights** – The company cannot easily get up-to-date information.
- **No KPI-Driven Dashboards** – Important performance metrics are not clearly displayed in dashboards.
- **Poor CRM Reporting** – Existing reports are difficult to use and provide limited insights into customer behavior and sales performance.
+**Siloed Customer Data** – Customer data is stored in different places, making it difficult to analyze.
+**Lack of Real-Time Insights** – The company cannot easily get up-to-date information.
+**No KPI-Driven Dashboards** – Important performance metrics are not clearly displayed in dashboards.
+**Poor CRM Reporting** – Existing reports are difficult to use and provide limited insights into customer behavior and sales performance.
  
 ##  Project Objectives
 
